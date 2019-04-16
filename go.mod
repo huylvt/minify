@@ -10,6 +10,5 @@ require (
 	github.com/matryer/try v0.0.0-20161228173917-9ac251b645a2
 	github.com/spf13/pflag v1.0.3
 	github.com/huylvt/parse/v2 v2.3.5
-	github.com/huylvt/test v1.0.0
 	golang.org/x/sys v0.0.0-20181031143558-9b800f95dbbc // indirect
 )

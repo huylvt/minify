@@ -14,7 +14,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/tdewolff/test"
+	"github.com/huylvt/test"
 )
 
 var errDummy = errors.New("dummy error")
